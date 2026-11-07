@@ -1,4 +1,4 @@
-; setup.iss - Echoes of the Abyss installer (Unicode, x64)
+﻿; setup.iss - Echoes of the Abyss installer (Unicode, x64)
 ; Build: ISCC.exe installer\setup.iss   (or: make package)
 
 #define MyAppName      "Echoes of the Abyss"
