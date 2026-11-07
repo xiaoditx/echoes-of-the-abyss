@@ -1,0 +1,7 @@
+id,name_key,hp,dmg,speed,score_coins,soul,anim_start,anim_count,scale,note,ai
+slime,en_slime,30,12,70,3,1,0,2,3,,chase
+bat,en_bat,20,10,150,4,1,24,2,3,,swoop
+wraith,en_wraith,26,14,60,4,2,2,2,3,,float
+cyclops,en_cyclops,70,18,45,8,3,4,2,3,,leap
+bomber,en_bomber,16,25,90,6,2,15,3,3,,explode
+boss,en_boss,600,20,110,60,50,21,3,4,,boss

@@ -1,0 +1,9 @@
+﻿Selected assets licenses (all CC0 1.0, public domain dedication):
+- Kenney "Pixel Platformer" (tile/character atlases) - Kenney Vleugels - https://kenney.nl/assets/pixel-platformer - CC0
+- Kenney "Impact Sounds" (sfx) - Kenney Vleugels - https://kenney.nl/assets/impact-sounds - CC0
+- Kenney "Interface Sounds" (sfx) - Kenney Vleugels - https://kenney.nl/assets/interface-sounds - CC0
+- "Tragic Ambient Main Menu" (title music) - HaelDB - https://opengameart.org/content/tragic-ambient-main-menu - CC0
+- "Cave Theme" (level 1 music) - HaelDB - https://opengameart.org/content/cave-theme - CC0
+- "Mysterious Ambience Song21" (level 2/3 music) - cynicmusic - https://opengameart.org/content/mysterious-ambience-song21 - CC0
+- "Battle Theme A" (boss music) - cynicmusic - https://opengameart.org/content/battle-theme-a - CC0
+Full source manifest with hashes: assets_staging/manifest.csv (not shipped).

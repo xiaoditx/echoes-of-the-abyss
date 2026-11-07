@@ -1,0 +1,12 @@
+develop
+.vscode/
+assets_staging/
+build/
+dist/
+logs/
+*.o
+*.res
+*.log
+.trae
+
+tools/

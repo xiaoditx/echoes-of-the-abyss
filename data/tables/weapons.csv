@@ -1,0 +1,4 @@
+id,name_key,dmg_mult,speed_mult,range_bonus,knock_mult,combo
+sword_prison,wpn_sword,1.0,1.0,0,1.0,12;14;22
+sword_heavy,wpn_heavy,1.7,0.7,14,1.5,20;24;38
+dagger_swift,wpn_dagger,0.65,1.45,-6,0.8,8;10;15

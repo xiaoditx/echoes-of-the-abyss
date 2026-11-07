@@ -1,0 +1,11 @@
+key,value,comment
+max_hp,100,
+move_speed,240,
+jump_vel,-780,
+gravity,2100,
+roll_dist,150,
+roll_iframe,0.35,
+roll_cd,0.2,
+hurt_iframe,0.8,
+combo_window,0.45,
+potions_start,1,

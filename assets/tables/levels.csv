@@ -1,0 +1,4 @@
+level,name_key,rooms_min,rooms_max,boss,enemy_pool,density,tint,bgm
+1,lv_1,5,7,0,slime:5;bat:3,0.8,blue,cave
+2,lv_2,5,7,0,slime:3;bat:3;wraith:3;bomber:2,1.0,green,amb
+3,lv_3,4,5,1,slime:2;bat:2;wraith:3;bomber:2;cyclops:3,1.2,red,amb

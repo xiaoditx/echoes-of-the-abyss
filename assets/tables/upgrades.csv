@@ -1,0 +1,6 @@
+id,name_key,desc_key,max_level,cost_base,cost_growth,note,effect_key,effect_per_level
+hp_up,up_hp,up_hp_d,5,20,1.6,,max_hp,20
+atk_up,up_atk,up_atk_d,5,30,1.7,,dmg_mult,0.10
+roll_cd,up_roll,up_roll_d,3,25,1.8,,roll_cd_delta,-0.15
+potion_up,up_potion,up_potion_d,2,40,2.0,,potions,1
+greed,up_greed,up_greed_d,3,25,1.8,,coin_mult,0.25

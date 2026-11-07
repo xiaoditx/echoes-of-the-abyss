@@ -1,0 +1,42 @@
+// resources.rc - version info + icon. Compiled with windres (UTF-8 source, wide output).
+#include <windows.h>
+#include <winver.h>
+
+#ifndef UNICODE
+#define UNICODE
+#endif
+
+IDI_ICON1 ICON "..\\installer\\icon.ico"
+
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION     0,1,0,0
+PRODUCTVERSION  0,1,0,0
+FILEFLAGSMASK   VS_FFI_FILEFLAGSMASK
+#ifdef NDEBUG
+FILEFLAGS       0
+#else
+FILEFLAGS       VS_FF_DEBUG
+#endif
+FILEOS          VOS__WINDOWS32
+FILETYPE        VFT_APP
+FILESUBTYPE     VFT2_UNKNOWN
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904B0"
+        BEGIN
+            VALUE "CompanyName",      "EchoesDev"
+            VALUE "FileDescription",  "Echoes of the Abyss - 2D roguelite action"
+            VALUE "FileVersion",      "0.1.0.0"
+            VALUE "InternalName",     "EchoesOfTheAbyss"
+            VALUE "LegalCopyright",   "WTFPL - Do What The Fuck You Want To Public License"
+            VALUE "OriginalFilename", "EchoesOfTheAbyss.exe"
+            VALUE "ProductName",      "Echoes of the Abyss"
+            VALUE "ProductVersion",   "0.1.0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0409, 0x04B0
+    END
+END

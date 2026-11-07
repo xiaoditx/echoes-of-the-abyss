@@ -1,0 +1,51 @@
+key,value
+game_title,深渊回响
+game_subtitle,Echoes of the Abyss - 每一次死亡都是回响
+menu_start,开始探索
+menu_forge,回声熔炉
+menu_quit,离开
+menu_back,返回
+menu_resume,继续
+menu_abandon,放弃本局
+menu_continue,继续
+pause_title,暂停
+forge_title,回声熔炉
+hud_coins,金币
+hud_soul,魂晶
+hud_potion,药剂
+hud_enter_level,向右前进 寻找出口
+hint_portal,[E] 穿过裂隙
+hint_rack,[E] 更换武器
+lv_1,第一层 幽暗洞窟
+lv_2,第二层 苔痕回廊
+lv_3,第三层 深渊王座
+boss_name,深渊守卫 戈尔姆
+death_title,你死了
+death_line,深渊收回了你的回响 但魂晶犹存
+death_kills,击杀
+death_coins,金币
+death_soul_gain,魂晶
+death_time,用时
+victory_title,深渊已寂
+victory_line,你击碎了守卫 带着回响归来
+stats_runs,探索次数
+stats_victories,通关次数
+wpn_sword,囚徒之剑
+wpn_heavy,碎骨重剑
+wpn_dagger,疾风短刃
+en_slime,史莱姆
+en_bat,洞穴蝙蝠
+en_wraith,深渊幽魂
+en_cyclops,独眼魔
+en_bomber,自爆魔
+en_boss,深渊守卫
+up_hp,生命强化
+up_hp_d,每级生命上限 +20
+up_atk,武器淬炼
+up_atk_d,每级伤害 +10%
+up_roll,幻影翻滚
+up_roll_d,每级翻滚冷却 -0.15 秒
+up_potion,药剂袋
+up_potion_d,每级开局药剂 +1
+up_greed,深渊贪婪
+up_greed_d,每级金币获取 +25%

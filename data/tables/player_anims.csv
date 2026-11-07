@@ -1,0 +1,12 @@
+frame_w,24
+frame_h,24
+sheet_cols,9
+name,start,count,fps,loop
+idle,18,1,1,1
+run,19,2,8,1
+jump,19,1,1,0
+fall,20,1,1,0
+roll,20,1,1,0
+attack,19,1,1,0
+hurt,18,1,1,0
+dead,20,1,1,0
